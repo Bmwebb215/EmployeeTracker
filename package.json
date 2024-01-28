@@ -3,5 +3,16 @@
     "dotenv": "^16.4.1",
     "inquirer": "^8.2.4",
     "mysql2": "^3.9.0"
-  }
+  },
+  "name": "employeetracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
